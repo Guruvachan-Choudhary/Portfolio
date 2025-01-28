@@ -1487,7 +1487,7 @@ footer h2 a {
 
   section {
     min-height: 100vh;
-    padding-top: 100px;
+    padding-top: 30px;
     margin-left: 20px;
     margin-right: 20px;
   }
@@ -1504,7 +1504,7 @@ footer h2 a {
     height: 260px;
     width: 260px;
     margin-bottom: 20px;
-    margin-top: 80px;
+    margin-top: 150px;
   }
 
   .para1 {
