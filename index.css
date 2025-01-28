@@ -1660,7 +1660,7 @@ footer h2 a {
 
   .certificate-card-container {
     gap: 5px;
-    margin-top: 20px;
+    margin-top: -20px;
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
