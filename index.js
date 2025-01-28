@@ -79,34 +79,34 @@ document.querySelectorAll(".close-icon").forEach((icon) => {
 
 /*right click */
 
-document.addEventListener("contextmenu", function (e) {
-  e.preventDefault();
-});
+// document.addEventListener("contextmenu", function (e) {
+//   e.preventDefault();
+// });
 
-ScrollReveal({
-  distance: "120px",
-  duration: 2000,
-  delay: 160,
-});
+// ScrollReveal({
+//   distance: "120px",
+//   duration: 2000,
+//   delay: 160,
+// });
 
-ScrollReveal().reveal(".home-container h1, section .headings .headings-para", {
-  origin: "top",
-});
-ScrollReveal().reveal(
-  ".home-container .social-media-profiles a, .skills p, .social-media-icons a, .social-media-icons img, .certificate-card, .certifi-2",
-  {
-    origin: "bottom",
-  }
-);
-ScrollReveal().reveal(
-  ".home-container .button-1, .profile-picture, .about-image, .form-content h1, .form-content p, .education, .certifi-1",
-  {
-    origin: "left",
-  }
-);
-ScrollReveal().reveal(
-  ".home-container p, .home-container .button-2, section .headings .section-heading, .about-content, .form-content-container form, .certifi-3",
-  {
-    origin: "right",
-  }
-);
+// ScrollReveal().reveal(".home-container h1, section .headings .headings-para", {
+//   origin: "top",
+// });
+// ScrollReveal().reveal(
+//   ".home-container .social-media-profiles a, .skills p, .social-media-icons a, .social-media-icons img, .certificate-card, .certifi-2",
+//   {
+//     origin: "bottom",
+//   }
+// );
+// ScrollReveal().reveal(
+//   ".home-container .button-1, .profile-picture, .about-image, .form-content h1, .form-content p, .education, .certifi-1",
+//   {
+//     origin: "left",
+//   }
+// );
+// ScrollReveal().reveal(
+//   ".home-container p, .home-container .button-2, section .headings .section-heading, .about-content, .form-content-container form, .certifi-3",
+//   {
+//     origin: "right",
+//   }
+// );
