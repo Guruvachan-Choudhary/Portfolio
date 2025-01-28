@@ -1679,6 +1679,10 @@ footer h2 a {
     width: 100%;
   }
 
+  .section{
+    padding-top: 180px;
+  }
+
   .certificate-name {
     font-weight: 500;
     font-size: 12px;
