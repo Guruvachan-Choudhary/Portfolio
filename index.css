@@ -1487,7 +1487,7 @@ footer h2 a {
 
   section {
     min-height: 100vh;
-    padding-top: 20px;
+    padding-top: 180px;
     margin-left: 20px;
     margin-right: 20px;
   }
@@ -1677,10 +1677,6 @@ footer h2 a {
   .certificate-card-container img {
     height: 220px;
     width: 100%;
-  }
-
-  .section{
-    padding-top: 180px;
   }
 
   .certificate-name {
